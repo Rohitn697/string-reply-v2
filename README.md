@@ -40,7 +40,7 @@ The service will be available at http://localhost:8080.
 
 ```json
 {
-    "data": "helloworld"
+    "message": "helloworld"
 }
 ```
 
@@ -48,7 +48,7 @@ The service will be available at http://localhost:8080.
 **Example:**
 ```json
 {
-    "data": "dlrowolleh"
+    "message": "dlrowolleh"
 }
 ```
 
@@ -57,7 +57,7 @@ The service will be available at http://localhost:8080.
 **Example:**
 ```json
 {
-    "data": "49afed3c7cf18693ac7f319cd01ffae4"
+    "message": "49afed3c7cf18693ac7f319cd01ffae4"
 }
 ```
 
@@ -65,7 +65,7 @@ The service will be available at http://localhost:8080.
 **Example:**
 ```json
 {
-    "data": "a11ee4c2150caf49670ad114b7fdc735"
+    "message": "a11ee4c2150caf49670ad114b7fdc735"
 }
 ```
 
